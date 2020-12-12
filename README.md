@@ -20,4 +20,7 @@ This repo contains the code written for [100 Days of Code - The Complete Python 
 - [Day 12](day12): Scope & Number Guessing Game
 - [Day 13](day13): Debugging: How to Find and Fix Errors in your Code
 - [Day 14](day14): Higher Lower Game Project
+
+## Intermediate
+
 - [Day 15](day15): Local Development Environment Setup & the Coffee Machine

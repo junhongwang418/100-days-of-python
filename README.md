@@ -1,10 +1,10 @@
-# 100 Days of Python
+# 100 Days of Python 🐍
 
 ![wallpaper](wallpaper.png)
 
 This repo contains the code written for [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code) by Angela Yu.
 
-## Beginner
+## 🔰 Beginner
 
 - [Day 1](day1): Working with Variables in Python to Manage data
 - [Day 2](day2): Understanding Data Types and How to Manipulate Strings
@@ -21,6 +21,6 @@ This repo contains the code written for [100 Days of Code - The Complete Python 
 - [Day 13](day13): Debugging: How to Find and Fix Errors in your Code
 - [Day 14](day14): Higher Lower Game Project
 
-## Intermediate
+## 💪 Intermediate
 
 - [Day 15](day15): Local Development Environment Setup & the Coffee Machine

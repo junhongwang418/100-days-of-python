@@ -2,7 +2,7 @@
 
 ![wallpaper](wallpaper.png)
 
-This repo contains the code written for [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code) by Angela Yu.
+Code for [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code).
 
 ## 🔰 Beginner
 
@@ -24,3 +24,8 @@ This repo contains the code written for [100 Days of Code - The Complete Python 
 ## 💪 Intermediate
 
 - [Day 15](day11-20/day15): Local Development Environment Setup & the Coffee Machine
+- [Day 16](day11-20/day16): Object Oriented Programming (OOP)
+- [Day 17](day11-20/day17): The Quiz Project & the Benefits of OOP
+- [Day 18](day11-20/day18): Turtle & the Graphical User Interface (GUI)
+- [Day 19](day11-20/day19): Instances, State and Higher Order Functions
+- [Day 20](day11-20/day20): Build the Snake Game Part 1: Animation & Coordinates

@@ -14,35 +14,39 @@ snake = Snake()
 food = Food()
 scoreboard = Scoreboard()
 
+
+def start():
+    done = False
+    while not done:
+        time.sleep(0.1)
+
+        snake.move()
+
+        # detect collision with food
+        if snake.head.distance(food) < 15:
+            food.refresh()
+            scoreboard.increment()
+            snake.extend()
+
+        # detect collision with walls
+        if snake.head.xcor() > 280 or snake.head.xcor() < -280 or snake.head.ycor() > 280 or snake.head.ycor() < -280:
+            done = True
+            scoreboard.gameover()
+
+        # detect collision with tails
+        for t in snake.turtles[1:]:
+            if snake.head.distance(t) < 10:
+                done = True
+                scoreboard.gameover()
+
+        screen.update()
+
+
 screen.listen()
 screen.onkey(snake.up, "Up")
 screen.onkey(snake.down, "Down")
 screen.onkey(snake.left, "Left")
 screen.onkey(snake.right, "Right")
-
-done = False
-while not done:
-    time.sleep(0.1)
-
-    snake.move()
-
-    # detect collision with food
-    if snake.head.distance(food) < 15:
-        food.refresh()
-        scoreboard.increment()
-        snake.extend()
-
-    # detect collision with walls
-    if snake.head.xcor() > 280 or snake.head.xcor() < -280 or snake.head.ycor() > 280 or snake.head.ycor() < -280:
-        done = True
-        scoreboard.gameover()
-
-    # detect collision with tails
-    for t in snake.turtles[1:]:
-        if snake.head.distance(t) < 10:
-            done = True
-            scoreboard.gameover()
-
-    screen.update()
+screen.onkey(start, "space")
 
 screen.exitonclick()

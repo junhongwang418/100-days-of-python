@@ -39,3 +39,9 @@ Code for [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://
 - [Day 28](day021-030/day028): Tkinter, Dynamic Typing and the Pomodoro GUI Application
 - [Day 29](day021-030/day029): Building a Password Manager GUI App with Tkinter
 - [Day 30](day021-030/day030): Errors, Exceptions and JSON Data: Improving the Password
+- [Day 31](day031-040/day031): Flash Card App Capstone Project
+
+## 😎 Intermediate+
+
+- [Day 32](day031-040/day032): Send Email (smtplib) & Manage Dates (datetime)
+- [Day 33](day031-040/day033): API Endpoints & API Parameters - ISS Overhead Notifier

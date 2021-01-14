@@ -45,3 +45,10 @@ Code for [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://
 
 - [Day 32](day031-040/day032): Send Email (smtplib) & Manage Dates (datetime)
 - [Day 33](day031-040/day033): API Endpoints & API Parameters - ISS Overhead Notifier
+- [Day 34](day031-040/day034): API Practice - Creating a GUI Quiz App
+- [Day 35](day031-040/day035): Keys, Authentication & Environment Variables: Send SMS
+- [Day 36](day031-040/day036): Stock Trading News Alert Project
+- [Day 37](day031-040/day037): Habit Tracking Project: API Post Requests & Headers
+- [Day 38](day031-040/day038): Workout Tracking Using Google Sheets
+- [Day 39](day031-040/day039): Capstone Part 1: Flight Deal Finder
+- [Day 40](day031-040/day040): Capstone Part 2: Flight Club

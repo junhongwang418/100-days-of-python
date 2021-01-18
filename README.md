@@ -52,3 +52,9 @@ Code for [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://
 - [Day 38](day031-040/day038): Workout Tracking Using Google Sheets
 - [Day 39](day031-040/day039): Capstone Part 1: Flight Deal Finder
 - [Day 40](day031-040/day040): Capstone Part 2: Flight Club
+- [Day 41](day031-040/day041): Web Foundation: Introduction to HTML
+- [Day 42](day031-040/day042): Web Foundation: Intermediate HTML
+- [Day 43](day031-040/day043): Web Foundation: Introduction to CSS
+- [Day 44](day031-040/day044): Web Foundation: Intermediate CSS
+- [Day 45](day031-040/day045): Web Scraping with Beautiful Soup
+- [Day 46](day031-040/day046): Create a Spotify Playlist

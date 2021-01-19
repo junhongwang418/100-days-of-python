@@ -58,3 +58,4 @@ Code for [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://
 - [Day 44](day031-040/day044): Web Foundation: Intermediate CSS
 - [Day 45](day031-040/day045): Web Scraping with Beautiful Soup
 - [Day 46](day031-040/day046): Create a Spotify Playlist
+- [Day 47](day031-040/day047): Create an Automated Amazon Price Tracker

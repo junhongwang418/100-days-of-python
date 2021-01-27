@@ -1,3 +1,5 @@
 # Day 50
 
-![tweet](tweet.png)
+## Auto Tinder Swiping Bot
+
+![tinder](tinder.gif)

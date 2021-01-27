@@ -47,7 +47,7 @@ class InternetSpeedTwitterBot:
 
         time.sleep(5)
 
-        content = 'Day 50 of #100DaysOfCode: Built a program that tweets this tweet using @SeleniumHQ.\n\n@LondonAppBrewer #Python\n'
+        content = 'Day 51 of #100DaysOfCode: Built a program that tweets this tweet using @SeleniumHQ.\n\n@LondonAppBrewer #Python\n'
 
         self.driver.find_element_by_xpath(
             '//*[@id="react-root"]/div/div/div[2]/main/div/div/div/div/div/div[2]/div/div[2]/div[1]/div/div/div/div[2]/div[1]/div/div/div/div/div/div/div/div/div/div[1]/div/div/div/div[2]/div/div/div/div').send_keys(content)

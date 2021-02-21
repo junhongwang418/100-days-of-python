@@ -52,10 +52,36 @@ Code for [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://
 - [Day 38](day031-040/day038): Workout Tracking Using Google Sheets
 - [Day 39](day031-040/day039): Capstone Part 1: Flight Deal Finder
 - [Day 40](day031-040/day040): Capstone Part 2: Flight Club
-- [Day 41](day031-040/day041): Web Foundation: Introduction to HTML
-- [Day 42](day031-040/day042): Web Foundation: Intermediate HTML
-- [Day 43](day031-040/day043): Web Foundation: Introduction to CSS
-- [Day 44](day031-040/day044): Web Foundation: Intermediate CSS
-- [Day 45](day031-040/day045): Web Scraping with Beautiful Soup
-- [Day 46](day031-040/day046): Create a Spotify Playlist
-- [Day 47](day031-040/day047): Create an Automated Amazon Price Tracker
+- [Day 41](day041-050/day041): Web Foundation: Introduction to HTML
+- [Day 42](day041-050/day042): Web Foundation: Intermediate HTML
+- [Day 43](day041-050/day043): Web Foundation: Introduction to CSS
+- [Day 44](day041-050/day044): Web Foundation: Intermediate CSS
+- [Day 45](day041-050/day045): Web Scraping with Beautiful Soup
+- [Day 46](day041-050/day046): Create a Spotify Playlist
+- [Day 47](day041-050/day047): Create an Automated Amazon Price Tracker
+- [Day 48](day041-050/day048): Selenium Webdriver Browser and Game Playing Bot
+- [Day 49](day041-050/day049): Automating Job Applications on LinkedIn
+- [Day 50](day051-060/day050): Auto Tinder Swiping Bot
+- [Day 51](day051-060/day051): Internet Speed Twitter Complain Bot
+- [Day 52](day051-060/day052): Instagram Follwer Bot
+- [Day 53](day051-060/day053): Web Scraping Capstone - Data Entry Job Automation
+- [Day 54](day051-060/day054): Introduction to Web Development with Flask
+- [Day 55](day051-060/day055): HTML & URL Parsing in Flask and the Higher Lower Game
+- [Day 56](day051-060/day056): Rendering HTML/Static files and Using Website Templates
+- [Day 57](day051-060/day057): Templating with Jinja in Flask Applications
+- [Day 58](day051-060/day058): Web Foundation Bootcamp
+
+## 👨‍💻 Advanced
+
+- [Day 59](day051-060/day059): Blog Capstone Project Part 2 - Adding Styling
+- [Day 60](day051-060/day060): Male POST Requests with Flask and HTML Forms
+- [Day 61](day061-070/day061): Building Advanced Forms with Flask-WTForms
+- [Day 62](day061-070/day062): Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
+- [Day 63](day061-070/day063): Databases and with SQLite and SQLAlchemy
+- [Day 64](day061-070/day064): My Top 10 Movies Website
+- [Day 65](day061-070/day065): Web Design School - How to Create a Website that People will Love
+- [Day 66](day061-070/day066): Building Your Own API with RESTful Routing
+- [Day 67](day061-070/day067): Blog Capstone Project Part 3 - RESTful Routing
+- [Day 68](day061-070/day068): Authentication with Flask
+- [Day 69](day061-070/day069): Blog Capstone Project Part 4 - Adding Users
+- [Day 70](day061-070/day070): Deploying Your Web Application with Heroku
